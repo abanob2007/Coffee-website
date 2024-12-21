@@ -86,8 +86,8 @@ border-radius: var(--border-radius-s);
 background: var(--secondary-clor);
 }
 
- /* Navbar styling */
- header {
+    /* Navbar styling */
+header {
     position: fixed;
     width: 100%;
     z-index: 5;
