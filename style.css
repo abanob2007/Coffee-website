@@ -128,4 +128,3 @@ color: var(--primary-color);
 .navbar :where(#menu-close-button, #menu-open-button) {
     display: none;
 }
-
